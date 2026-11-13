@@ -6,7 +6,7 @@ Drop a CIB report PDF into CIBEX and, within seconds, it reads every contract an
 
 CIBEX was first built for my own personal use as a credit risk professional. It is now released, free, for everyone who does this work.
 
-![CIBEX Assessment tab](docs/screenshots/1_assessment.png)
+![CIBEX Assessment tab](1_assessment.png)
 
 ---
 
@@ -80,8 +80,8 @@ All screenshots use made up sample data.
 
 | | |
 |---|---|
-| ![Contracts](docs/screenshots/2_contracts.png) | ![Analytics](docs/screenshots/3_analytics.png) |
-| ![DBR calculator](docs/screenshots/4_dbr_calculator.png) | ![Dark mode](docs/screenshots/5_dark_mode.png) |
+| ![Contracts](2_contracts.png) | ![Analytics](3_analytics.png) |
+| ![DBR calculator](4_dbr_calculator.png) | ![Dark mode](5_dark_mode.png) |
 
 ---
 
