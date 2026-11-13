@@ -1,0 +1,4 @@
+# never commit customer reports
+*.pdf
+*.xls
+*.xlsx
