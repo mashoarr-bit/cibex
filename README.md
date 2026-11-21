@@ -6,13 +6,15 @@ Drop a CIB report PDF into CIBEX and, within seconds, it reads every contract an
 
 CIBEX was first built for my own personal use as a credit risk professional. It is now released, free, for everyone who does this work.
 
-![CIBEX Assessment tab](1_assessment.png)
+![CIBEX Assessment tab](docs/screenshots/1_assessment.png)
+
+**New to CIBEX?** Read the [User Guide (PDF)](CIBEX_User_Guide.pdf). It walks through every screen with pictures, then shows how to download, set up and bookmark CIBEX.
 
 ---
 
 ## Download and use
 
-1. Download **[CIBEX_v1.0.html](CIBEX_v1.0.html)** (click the file, then the download button).
+1. Download **[CIBEX_v1.1.html](CIBEX_v1.1.html)** (click the file, then the download button).
 2. Open it in **Google Chrome** or **Microsoft Edge**.
 3. Drop one or more CIB report PDFs onto the page, or click to choose them.
 
@@ -80,8 +82,8 @@ All screenshots use made up sample data.
 
 | | |
 |---|---|
-| ![Contracts](2_contracts.png) | ![Analytics](3_analytics.png) |
-| ![DBR calculator](4_dbr_calculator.png) | ![Dark mode](5_dark_mode.png) |
+| ![Contracts](docs/screenshots/2_contracts.png) | ![Analytics](docs/screenshots/3_analytics.png) |
+| ![DBR calculator](docs/screenshots/4_dbr_calculator.png) | ![Dark mode](docs/screenshots/5_dark_mode.png) |
 
 ---
 
@@ -116,4 +118,4 @@ CIBEX includes, unchanged, two open source libraries:
 
 ---
 
-**File check.** The SHA 256 of CIBEX_v1.0.html is listed in the [release notes](CHANGELOG.md), so you can confirm your copy has not been changed.
+**File check.** The SHA 256 of CIBEX_v1.1.html is listed in the [release notes](CHANGELOG.md), so you can confirm your copy has not been changed.
